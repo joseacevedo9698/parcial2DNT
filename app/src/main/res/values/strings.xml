@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">parcial2</string>
+
+    <string-array name="spinner_items">
+
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+
+
+    </string-array>
+
+    <string-array name="spinner_items_nivel">
+
+        <item>Bachillerato</item>
+        <item>Pregado</item>
+        <item>Maestria</item>
+        <item>Doctorado</item>
+
+
+    </string-array>
+</resources>
